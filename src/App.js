@@ -7,7 +7,7 @@ const INITIAL_EXPENSES = [
     id: "e1",
     title: "Tissues",
     amount: 94.12,
-    date: new Date(2023, 7, 14),
+    date: new Date(2022, 7, 14),
   },
   {
     id: "e2",
@@ -47,9 +47,9 @@ const INITIAL_EXPENSES = [
   },
   {
     id: "e8",
-    title: "Video Game Console",
-    amount: 294.12,
-    date: new Date(2023, 5, 14),
+    title: "PSVR2",
+    amount: 394.12,
+    date: new Date(2023, 0, 14),
   },
 ];
 
